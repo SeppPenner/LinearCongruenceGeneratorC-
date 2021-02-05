@@ -13,7 +13,7 @@ This assembly was written and tested in .Net 5.0.
 Link to Linear Congruence Generator implementation in Java:
 https://github.com/SeppPenner/LinearCongruenceGenerator/blob/master/README.md
 
-## Basic usage:
+## Basic usage
 ```csharp
 public class ExampleUsage
 {
