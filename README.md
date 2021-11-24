@@ -1,8 +1,6 @@
 # LinearCongruenceGenerator
 Linear Congruence Generator implementation in C#.
 
-This assembly was written and tested in .Net 5.0.
-
 [![Build status](https://ci.appveyor.com/api/projects/status/t0v8qsktgau2fh96?svg=true)](https://ci.appveyor.com/project/SeppPenner/linearcongruencegeneratorc)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/LinearCongruenceGeneratorC-.svg)](https://github.com/SeppPenner/LinearCongruenceGeneratorC-/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/LinearCongruenceGeneratorC-.svg)](https://github.com/SeppPenner/LinearCongruenceGeneratorC-/network)
